@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 hold a cookie :cookie:
 
 <!--
 **pechhenka/pechhenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
